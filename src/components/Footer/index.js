@@ -21,7 +21,7 @@ class Footer extends Component {
     return (
       <div style={{ paddingTop: "75px" }}>
         <footer className={classes.footer__container} id="footer__container">
-          <a href="https://github.com/nodirhajiev/mylibDrive/" target="_blank">
+          <a href="https://github.com/nodirhajiev/libDrive/" target="_blank">
             <img
               src="/images/github.gif"
               className="footer__github"
