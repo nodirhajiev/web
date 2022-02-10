@@ -21,17 +21,17 @@ class Footer extends Component {
     return (
       <div style={{ paddingTop: "75px" }}>
         <footer className={classes.footer__container} id="footer__container">
-          <a href="https://github.com/nodirhajiev/libDrive/" target="_blank">
+          <a href="https://github.com/nodirhajiev/" target="_blank">
             <img
-              src="/images/github.gif"
+              src="https://telegra.ph/file/7168c6d39c4b2a1f134d8.png"
               className="footer__github"
-              height="64px"
+              height="30px"
               alt="github-logo"
             />
           </a>
           <a
             className="no_decoration_link footer__text"
-            href="https://nodirkhajiev.uz"
+            href="https://t.me/nodir_hajiev"
             target="_blank"
           >
             {`© 2022 Copyright: Nodirbek Khajiev`}
