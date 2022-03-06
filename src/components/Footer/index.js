@@ -31,7 +31,7 @@ class Footer extends Component {
           </a>
           <a
             className="no_decoration_link footer__text"
-            href="https://t.me/nodir_hajiev"
+            href="https://t.me/nodir_khajiev"
             target="_blank"
           >
             {`© 2022 Copyright: Nodirbek Khajiev`}
